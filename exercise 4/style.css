@@ -1,0 +1,14 @@
+body {
+    background: no-repeat;
+   }
+h1{
+    color: white;
+}
+#image{
+    height: 150px;
+    width: 10%;
+}
+#description{
+    color : white;
+    width: 30%;
+}
